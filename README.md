@@ -1,2 +1,2 @@
 # From-Beginners-to-Winners
-This is a place where people can become better at coding. 
+Our goal is to become a better coder than we were yesterday.
