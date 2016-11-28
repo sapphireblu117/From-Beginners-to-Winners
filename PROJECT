@@ -1,0 +1,6 @@
+Aiit um..... i had an idea of a project from SoloLearn
+
+its just to create a image in a div with a transform:scale(); effect and a transparent border on hover effect such that
+1. on hover, it's border becomes tranparent and its size increases gradually using the transform:scale(); styling
+
+might seem simple to some... Buh its a start!!
