@@ -1,0 +1,21 @@
+Scenario: A customer would like to have a short slideshow to include onto their Winter festival website. 
+          He requests to have only three images inside the slideshow. 
+          This will be displayed as an automatic slideshow until a user clicks on the image. 
+          
+          Create a slideshow that:
+          
+          -Uses HTML, CSS and JavaScript
+           --divs
+           --imgs
+           --style classes
+           --width
+           --variables
+           --functions
+           --conditionals(if statements)
+           --for loop and etc. to make this slideshow interactive
+           
+           *Hint: You may use resources such as SoloLearn, W3Schools and etc. to create this slideshow. 
+           
+           Enjoy!
+           
+       
